@@ -2538,7 +2538,7 @@ namespace_ids_write (int    fd,
 }
 
 int
-main (int    argc,
+input_main (int    argc,
       char **argv)
 {
   mode_t old_umask;
